@@ -1,0 +1,67 @@
+item	13436	id	13436
+item	13436	gid	TrailMix/item.trailmix
+item	13436	itemStackLimit	64
+item	13436	hasSubtypes	false
+item	13436	maxDamage	0
+item	13436	isDamageable	false
+item	13436	localizedName	item.trailmix
+item	13436	unlocalizedName	item.trailmix
+item	13436	hasContainerItem	false
+item	13436	statName	§eTrail Mix
+item	13436	isMap	false
+item	13436	itemUseAction	eat
+item	13436	maxItemUseDuration	32
+item	13436	potionEffect	null
+item	13436	isPotionIngredient	false
+item	13436	itemDisplayName	§eTrail Mix
+item	13436	isItemTool	false
+item	13436	enchantability	0
+item	13436	isRepairable	false
+item	13436	isItemBlock	false
+item	13437	id	13437
+item	13437	gid	TrailMix/item.TMPPLauncher
+item	13437	itemStackLimit	1
+item	13437	hasSubtypes	false
+item	13437	maxDamage	9
+item	13437	isDamageable	true
+item	13437	localizedName	item.TMPPLauncher
+item	13437	unlocalizedName	item.TMPPLauncher
+item	13437	hasContainerItem	false
+item	13437	statName	§cTMPP Launcher
+item	13437	isMap	false
+item	13437	itemUseAction	bow
+item	13437	maxItemUseDuration	0
+item	13437	potionEffect	null
+item	13437	isPotionIngredient	false
+item	13437	itemDisplayName	§cTMPP Launcher
+item	13437	isItemTool	true
+item	13437	enchantability	0
+item	13437	isRepairable	true
+item	13437	isItemBlock	false
+item	13438	id	13438
+item	13438	gid	TrailMix/item.NyanPigLauncher
+item	13438	itemStackLimit	1
+item	13438	hasSubtypes	false
+item	13438	maxDamage	9
+item	13438	isDamageable	true
+item	13438	localizedName	item.NyanPigLauncher
+item	13438	unlocalizedName	item.NyanPigLauncher
+item	13438	hasContainerItem	false
+item	13438	statName	§dNyan Pig Launcher
+item	13438	isMap	false
+item	13438	itemUseAction	bow
+item	13438	maxItemUseDuration	0
+item	13438	potionEffect	null
+item	13438	isPotionIngredient	false
+item	13438	itemDisplayName	§dNyan Pig Launcher
+item	13438	isItemTool	true
+item	13438	enchantability	0
+item	13438	isRepairable	true
+item	13438	isItemBlock	false
+recipes/crafting/shapeless	Minecraft/item.redstone:0;Minecraft/item.sugar:0;Minecraft/item.sulphur:0;Minecraft/item.yellowDust:0	ingredient.0	353:0
+recipes/crafting/shapeless	Minecraft/item.redstone:0;Minecraft/item.sugar:0;Minecraft/item.sulphur:0;Minecraft/item.yellowDust:0	ingredient.1	289:0
+recipes/crafting/shapeless	Minecraft/item.redstone:0;Minecraft/item.sugar:0;Minecraft/item.sulphur:0;Minecraft/item.yellowDust:0	ingredient.2	331:0
+recipes/crafting/shapeless	Minecraft/item.redstone:0;Minecraft/item.sugar:0;Minecraft/item.sulphur:0;Minecraft/item.yellowDust:0	ingredient.3	348:0
+recipes/crafting/shapeless	Minecraft/item.redstone:0;Minecraft/item.sugar:0;Minecraft/item.sulphur:0;Minecraft/item.yellowDust:0	output	13436:0
+recipes/crafting/shaped	W=3;Minecraft/item.dyePowder:9;Minecraft/item.ingotIron:0;Minecraft/tile.dispenser:32767;Minecraft/item.ingotIron:0;Minecraft/item.sulphur:0;Minecraft/item.ingotIron:0;Minecraft/tile.obsidian:32767;Minecraft/item.ingotIron:0;Minecraft/tile.pistonBase:32767	output	13437:9
+recipes/crafting/shaped	W=3;Minecraft/item.dyePowder:1;Minecraft/item.dyePowder:14;Minecraft/item.dyePowder:11;Minecraft/item.diamond:0;TrailMix/item.TMPPLauncher:9;Minecraft/tile.thinGlass:32767;Minecraft/item.dyePowder:5;Minecraft/item.dyePowder:12;Minecraft/item.dyePowder:10	output	13438:9

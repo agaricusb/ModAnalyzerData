@@ -1,0 +1,524 @@
+block	4092	id	4092
+block	4092	resistence	0.3
+block	4092	enableStats	true
+block	4092	needsRandomTick	false
+block	4092	bounds	0.400000-0.600000,0.000000-1.000000,0.400000-0.600000
+block	4092	stepSound	step.stone
+block	4092	particleGravity	1.0
+block	4092	material	vine
+block	4092	isLiquid	false
+block	4092	isSolid	false
+block	4092	canBlockGrass	false
+block	4092	blocksMovement	false
+block	4092	canBurn	true
+block	4092	isReplaceable	true
+block	4092	isOpaque	false
+block	4092	isToolNotRequired	true
+block	4092	slipperiness	0.6
+block	4092	unlocalizedName	tile.blockZiplineAnchor
+block	4092	isNormalCube	false
+block	4092	renderAsNormalBlock	false
+block	4092	renderType	1
+block	4092	localizedName	Zipline Anchor
+block	4092	hardness	0.3
+block	4092	hasTileEntity	true
+block	4092	opaqueCube	false
+block	4092	canCollideCheck	true
+block	4092	isCollidable	true
+block	4092	quantityDropped	1
+block	4092	damageDropped	0
+block	4092	canProvidePower	false
+block	4092	mobilityFlag	1
+block	4092	hasComparatorInputOverride	false
+block	4093	id	4093
+block	4093	resistence	0.3
+block	4093	enableStats	true
+block	4093	needsRandomTick	false
+block	4093	bounds	0.400000-0.600000,0.000000-1.000000,0.400000-0.600000
+block	4093	stepSound	step.stone
+block	4093	particleGravity	1.0
+block	4093	material	vine
+block	4093	isLiquid	false
+block	4093	isSolid	false
+block	4093	canBlockGrass	false
+block	4093	blocksMovement	false
+block	4093	canBurn	true
+block	4093	isReplaceable	true
+block	4093	isOpaque	false
+block	4093	isToolNotRequired	true
+block	4093	slipperiness	0.6
+block	4093	unlocalizedName	tile.blockRopeCentral
+block	4093	isNormalCube	false
+block	4093	renderAsNormalBlock	false
+block	4093	renderType	1
+block	4093	localizedName	Rope
+block	4093	hardness	0.3
+block	4093	hasTileEntity	false
+block	4093	opaqueCube	false
+block	4093	canCollideCheck	true
+block	4093	isCollidable	true
+block	4093	quantityDropped	1
+block	4093	damageDropped	0
+block	4093	canProvidePower	false
+block	4093	mobilityFlag	1
+block	4093	hasComparatorInputOverride	false
+block	4094	id	4094
+block	4094	resistence	0.0
+block	4094	enableStats	true
+block	4094	needsRandomTick	false
+block	4094	bounds	0.000000-1.000000,0.000000-0.125000,0.000000-1.000000
+block	4094	stepSound	step.stone
+block	4094	particleGravity	1.0
+block	4094	material	wood
+block	4094	isLiquid	false
+block	4094	isSolid	true
+block	4094	canBlockGrass	true
+block	4094	blocksMovement	true
+block	4094	canBurn	true
+block	4094	isReplaceable	false
+block	4094	isOpaque	true
+block	4094	isToolNotRequired	true
+block	4094	slipperiness	0.6
+block	4094	unlocalizedName	tile.blockGrHk
+block	4094	isNormalCube	false
+block	4094	renderAsNormalBlock	false
+block	4094	renderType	23
+block	4094	localizedName	Grappling Hook
+block	4094	hardness	0.0
+block	4094	hasTileEntity	false
+block	4094	opaqueCube	false
+block	4094	canCollideCheck	true
+block	4094	isCollidable	true
+block	4094	quantityDropped	1
+block	4094	damageDropped	0
+block	4094	canProvidePower	false
+block	4094	mobilityFlag	0
+block	4094	hasComparatorInputOverride	false
+block	4095	id	4095
+block	4095	resistence	0.5
+block	4095	enableStats	true
+block	4095	needsRandomTick	false
+block	4095	bounds	0.000000-1.000000,0.000000-1.000000,0.000000-1.000000
+block	4095	stepSound	step.cloth
+block	4095	particleGravity	1.0
+block	4095	material	vine
+block	4095	isLiquid	false
+block	4095	isSolid	false
+block	4095	canBlockGrass	false
+block	4095	blocksMovement	false
+block	4095	canBurn	true
+block	4095	isReplaceable	true
+block	4095	isOpaque	false
+block	4095	isToolNotRequired	true
+block	4095	slipperiness	0.6
+block	4095	unlocalizedName	tile.blockRope
+block	4095	isNormalCube	false
+block	4095	renderAsNormalBlock	false
+block	4095	renderType	20
+block	4095	localizedName	GrHk Rope
+block	4095	hardness	0.5
+block	4095	hasTileEntity	true
+block	4095	opaqueCube	false
+block	4095	canCollideCheck	true
+block	4095	isCollidable	true
+block	4095	quantityDropped	0
+block	4095	damageDropped	0
+block	4095	canProvidePower	false
+block	4095	mobilityFlag	1
+block	4095	hasComparatorInputOverride	false
+item	4092	id	4092
+item	4092	gid	RopesPlus/tile.blockZiplineAnchor
+item	4092	itemStackLimit	64
+item	4092	hasSubtypes	false
+item	4092	maxDamage	0
+item	4092	isDamageable	false
+item	4092	localizedName	tile.blockZiplineAnchor
+item	4092	unlocalizedName	tile.blockZiplineAnchor
+item	4092	hasContainerItem	false
+item	4092	statName	Zipline Anchor
+item	4092	isMap	false
+item	4092	itemUseAction	none
+item	4092	maxItemUseDuration	0
+item	4092	potionEffect	null
+item	4092	isPotionIngredient	false
+item	4092	itemDisplayName	Zipline Anchor
+item	4092	isItemTool	false
+item	4092	enchantability	0
+item	4092	isRepairable	false
+item	4092	isItemBlock	true
+item	4093	id	4093
+item	4093	gid	RopesPlus/tile.blockRopeCentral
+item	4093	itemStackLimit	64
+item	4093	hasSubtypes	false
+item	4093	maxDamage	0
+item	4093	isDamageable	false
+item	4093	localizedName	tile.blockRopeCentral
+item	4093	unlocalizedName	tile.blockRopeCentral
+item	4093	hasContainerItem	false
+item	4093	statName	Rope
+item	4093	isMap	false
+item	4093	itemUseAction	none
+item	4093	maxItemUseDuration	0
+item	4093	potionEffect	null
+item	4093	isPotionIngredient	false
+item	4093	itemDisplayName	Rope
+item	4093	isItemTool	false
+item	4093	enchantability	0
+item	4093	isRepairable	false
+item	4093	isItemBlock	true
+item	4094	id	4094
+item	4094	gid	RopesPlus/tile.blockGrHk
+item	4094	itemStackLimit	64
+item	4094	hasSubtypes	false
+item	4094	maxDamage	0
+item	4094	isDamageable	false
+item	4094	localizedName	tile.blockGrHk
+item	4094	unlocalizedName	tile.blockGrHk
+item	4094	hasContainerItem	false
+item	4094	statName	Grappling Hook
+item	4094	isMap	false
+item	4094	itemUseAction	none
+item	4094	maxItemUseDuration	0
+item	4094	potionEffect	null
+item	4094	isPotionIngredient	false
+item	4094	itemDisplayName	Grappling Hook
+item	4094	isItemTool	false
+item	4094	enchantability	0
+item	4094	isRepairable	false
+item	4094	isItemBlock	true
+item	4095	id	4095
+item	4095	gid	RopesPlus/tile.blockRope
+item	4095	itemStackLimit	64
+item	4095	hasSubtypes	false
+item	4095	maxDamage	0
+item	4095	isDamageable	false
+item	4095	localizedName	tile.blockRope
+item	4095	unlocalizedName	tile.blockRope
+item	4095	hasContainerItem	false
+item	4095	statName	GrHk Rope
+item	4095	isMap	false
+item	4095	itemUseAction	none
+item	4095	maxItemUseDuration	0
+item	4095	potionEffect	null
+item	4095	isPotionIngredient	false
+item	4095	itemDisplayName	GrHk Rope
+item	4095	isItemTool	false
+item	4095	enchantability	0
+item	4095	isRepairable	false
+item	4095	isItemBlock	true
+item	31730	id	31730
+item	31730	gid	RopesPlus/item.Warp Arrow
+item	31730	itemStackLimit	64
+item	31730	hasSubtypes	false
+item	31730	maxDamage	0
+item	31730	isDamageable	false
+item	31730	localizedName	item.Warp Arrow
+item	31730	unlocalizedName	item.Warp Arrow
+item	31730	hasContainerItem	false
+item	31730	statName	Warp Arrow
+item	31730	isMap	false
+item	31730	itemUseAction	none
+item	31730	maxItemUseDuration	0
+item	31730	potionEffect	null
+item	31730	isPotionIngredient	false
+item	31730	itemDisplayName	Warp Arrow
+item	31730	isItemTool	false
+item	31730	enchantability	0
+item	31730	isRepairable	false
+item	31730	isItemBlock	false
+item	31731	id	31731
+item	31731	gid	RopesPlus/item.Torch Arrow
+item	31731	itemStackLimit	64
+item	31731	hasSubtypes	false
+item	31731	maxDamage	0
+item	31731	isDamageable	false
+item	31731	localizedName	item.Torch Arrow
+item	31731	unlocalizedName	item.Torch Arrow
+item	31731	hasContainerItem	false
+item	31731	statName	Torch Arrow
+item	31731	isMap	false
+item	31731	itemUseAction	none
+item	31731	maxItemUseDuration	0
+item	31731	potionEffect	null
+item	31731	isPotionIngredient	false
+item	31731	itemDisplayName	Torch Arrow
+item	31731	isItemTool	false
+item	31731	enchantability	0
+item	31731	isRepairable	false
+item	31731	isItemBlock	false
+item	31732	id	31732
+item	31732	gid	RopesPlus/item.Slime Arrow
+item	31732	itemStackLimit	64
+item	31732	hasSubtypes	false
+item	31732	maxDamage	0
+item	31732	isDamageable	false
+item	31732	localizedName	item.Slime Arrow
+item	31732	unlocalizedName	item.Slime Arrow
+item	31732	hasContainerItem	false
+item	31732	statName	Slime Arrow
+item	31732	isMap	false
+item	31732	itemUseAction	none
+item	31732	maxItemUseDuration	0
+item	31732	potionEffect	null
+item	31732	isPotionIngredient	false
+item	31732	itemDisplayName	Slime Arrow
+item	31732	isItemTool	false
+item	31732	enchantability	0
+item	31732	isRepairable	false
+item	31732	isItemBlock	false
+item	31733	id	31733
+item	31733	gid	RopesPlus/item.Rope Arrow
+item	31733	itemStackLimit	64
+item	31733	hasSubtypes	false
+item	31733	maxDamage	0
+item	31733	isDamageable	false
+item	31733	localizedName	item.Rope Arrow
+item	31733	unlocalizedName	item.Rope Arrow
+item	31733	hasContainerItem	false
+item	31733	statName	Rope Arrow
+item	31733	isMap	false
+item	31733	itemUseAction	none
+item	31733	maxItemUseDuration	0
+item	31733	potionEffect	null
+item	31733	isPotionIngredient	false
+item	31733	itemDisplayName	Rope Arrow
+item	31733	isItemTool	false
+item	31733	enchantability	0
+item	31733	isRepairable	false
+item	31733	isItemBlock	false
+item	31734	id	31734
+item	31734	gid	RopesPlus/item.Penetrating Arrow
+item	31734	itemStackLimit	64
+item	31734	hasSubtypes	false
+item	31734	maxDamage	0
+item	31734	isDamageable	false
+item	31734	localizedName	item.Penetrating Arrow
+item	31734	unlocalizedName	item.Penetrating Arrow
+item	31734	hasContainerItem	false
+item	31734	statName	Penetrating Arrow
+item	31734	isMap	false
+item	31734	itemUseAction	none
+item	31734	maxItemUseDuration	0
+item	31734	potionEffect	null
+item	31734	isPotionIngredient	false
+item	31734	itemDisplayName	Penetrating Arrow
+item	31734	isItemTool	false
+item	31734	enchantability	0
+item	31734	isRepairable	false
+item	31734	isItemBlock	false
+item	31735	id	31735
+item	31735	gid	RopesPlus/item.Frost Arrow
+item	31735	itemStackLimit	64
+item	31735	hasSubtypes	false
+item	31735	maxDamage	0
+item	31735	isDamageable	false
+item	31735	localizedName	item.Frost Arrow
+item	31735	unlocalizedName	item.Frost Arrow
+item	31735	hasContainerItem	false
+item	31735	statName	Frost Arrow
+item	31735	isMap	false
+item	31735	itemUseAction	none
+item	31735	maxItemUseDuration	0
+item	31735	potionEffect	null
+item	31735	isPotionIngredient	false
+item	31735	itemDisplayName	Frost Arrow
+item	31735	isItemTool	false
+item	31735	enchantability	0
+item	31735	isRepairable	false
+item	31735	isItemBlock	false
+item	31736	id	31736
+item	31736	gid	RopesPlus/item.Seed Arrow
+item	31736	itemStackLimit	64
+item	31736	hasSubtypes	false
+item	31736	maxDamage	0
+item	31736	isDamageable	false
+item	31736	localizedName	item.Seed Arrow
+item	31736	unlocalizedName	item.Seed Arrow
+item	31736	hasContainerItem	false
+item	31736	statName	Seed Arrow
+item	31736	isMap	false
+item	31736	itemUseAction	none
+item	31736	maxItemUseDuration	0
+item	31736	potionEffect	null
+item	31736	isPotionIngredient	false
+item	31736	itemDisplayName	Seed Arrow
+item	31736	isItemTool	false
+item	31736	enchantability	0
+item	31736	isRepairable	false
+item	31736	isItemBlock	false
+item	31737	id	31737
+item	31737	gid	RopesPlus/item.Fire Arrow
+item	31737	itemStackLimit	64
+item	31737	hasSubtypes	false
+item	31737	maxDamage	0
+item	31737	isDamageable	false
+item	31737	localizedName	item.Fire Arrow
+item	31737	unlocalizedName	item.Fire Arrow
+item	31737	hasContainerItem	false
+item	31737	statName	Fire Arrow
+item	31737	isMap	false
+item	31737	itemUseAction	none
+item	31737	maxItemUseDuration	0
+item	31737	potionEffect	null
+item	31737	isPotionIngredient	false
+item	31737	itemDisplayName	Fire Arrow
+item	31737	isItemTool	false
+item	31737	enchantability	0
+item	31737	isRepairable	false
+item	31737	isItemBlock	false
+item	31738	id	31738
+item	31738	gid	RopesPlus/item.Exploding Arrow
+item	31738	itemStackLimit	64
+item	31738	hasSubtypes	false
+item	31738	maxDamage	0
+item	31738	isDamageable	false
+item	31738	localizedName	item.Exploding Arrow
+item	31738	unlocalizedName	item.Exploding Arrow
+item	31738	hasContainerItem	false
+item	31738	statName	Exploding Arrow
+item	31738	isMap	false
+item	31738	itemUseAction	none
+item	31738	maxItemUseDuration	0
+item	31738	potionEffect	null
+item	31738	isPotionIngredient	false
+item	31738	itemDisplayName	Exploding Arrow
+item	31738	isItemTool	false
+item	31738	enchantability	0
+item	31738	isRepairable	false
+item	31738	isItemBlock	false
+item	31739	id	31739
+item	31739	gid	RopesPlus/item.Dirt Arrow
+item	31739	itemStackLimit	64
+item	31739	hasSubtypes	false
+item	31739	maxDamage	0
+item	31739	isDamageable	false
+item	31739	localizedName	item.Dirt Arrow
+item	31739	unlocalizedName	item.Dirt Arrow
+item	31739	hasContainerItem	false
+item	31739	statName	Dirt Arrow
+item	31739	isMap	false
+item	31739	itemUseAction	none
+item	31739	maxItemUseDuration	0
+item	31739	potionEffect	null
+item	31739	isPotionIngredient	false
+item	31739	itemDisplayName	Dirt Arrow
+item	31739	isItemTool	false
+item	31739	enchantability	0
+item	31739	isRepairable	false
+item	31739	isItemBlock	false
+item	31740	id	31740
+item	31740	gid	RopesPlus/item.Confusing Arrow
+item	31740	itemStackLimit	64
+item	31740	hasSubtypes	false
+item	31740	maxDamage	0
+item	31740	isDamageable	false
+item	31740	localizedName	item.Confusing Arrow
+item	31740	unlocalizedName	item.Confusing Arrow
+item	31740	hasContainerItem	false
+item	31740	statName	Confusing Arrow
+item	31740	isMap	false
+item	31740	itemUseAction	none
+item	31740	maxItemUseDuration	0
+item	31740	potionEffect	null
+item	31740	isPotionIngredient	false
+item	31740	itemDisplayName	Confusing Arrow
+item	31740	isItemTool	false
+item	31740	enchantability	0
+item	31740	isRepairable	false
+item	31740	isItemBlock	false
+item	31984	id	31984
+item	31984	gid	RopesPlus/item.HookshotCartridge
+item	31984	itemStackLimit	64
+item	31984	hasSubtypes	false
+item	31984	maxDamage	0
+item	31984	isDamageable	false
+item	31984	localizedName	item.HookshotCartridge
+item	31984	unlocalizedName	item.HookshotCartridge
+item	31984	hasContainerItem	false
+item	31984	statName	Hookshot Cartridge
+item	31984	isMap	false
+item	31984	itemUseAction	none
+item	31984	maxItemUseDuration	0
+item	31984	potionEffect	null
+item	31984	isPotionIngredient	false
+item	31984	itemDisplayName	Hookshot Cartridge
+item	31984	isItemTool	false
+item	31984	enchantability	0
+item	31984	isRepairable	false
+item	31984	isItemBlock	false
+item	31985	id	31985
+item	31985	gid	RopesPlus/item.itemHookshot
+item	31985	itemStackLimit	1
+item	31985	hasSubtypes	false
+item	31985	maxDamage	0
+item	31985	isDamageable	false
+item	31985	localizedName	item.itemHookshot
+item	31985	unlocalizedName	item.itemHookshot
+item	31985	hasContainerItem	false
+item	31985	statName	Hookshot
+item	31985	isMap	false
+item	31985	itemUseAction	bow
+item	31985	maxItemUseDuration	72000
+item	31985	potionEffect	null
+item	31985	isPotionIngredient	false
+item	31985	itemDisplayName	Hookshot
+item	31985	isItemTool	false
+item	31985	enchantability	0
+item	31985	isRepairable	false
+item	31985	isItemBlock	false
+item	31997	id	31997
+item	31997	gid	RopesPlus/item.bowRopesPlus
+item	31997	itemStackLimit	1
+item	31997	hasSubtypes	false
+item	31997	maxDamage	384
+item	31997	isDamageable	true
+item	31997	localizedName	item.bowRopesPlus
+item	31997	unlocalizedName	item.bowRopesPlus
+item	31997	hasContainerItem	false
+item	31997	statName	RopesPlusBow
+item	31997	isMap	false
+item	31997	itemUseAction	bow
+item	31997	maxItemUseDuration	72000
+item	31997	potionEffect	null
+item	31997	isPotionIngredient	false
+item	31997	itemDisplayName	RopesPlusBow
+item	31997	isItemTool	true
+item	31997	enchantability	1
+item	31997	isRepairable	true
+item	31997	isItemBlock	false
+item	31998	id	31998
+item	31998	gid	RopesPlus/item.itemGrapplingHook
+item	31998	itemStackLimit	1
+item	31998	hasSubtypes	false
+item	31998	maxDamage	0
+item	31998	isDamageable	false
+item	31998	localizedName	item.itemGrapplingHook
+item	31998	unlocalizedName	item.itemGrapplingHook
+item	31998	hasContainerItem	false
+item	31998	statName	Grappling Hook
+item	31998	isMap	false
+item	31998	itemUseAction	none
+item	31998	maxItemUseDuration	0
+item	31998	potionEffect	null
+item	31998	isPotionIngredient	false
+item	31998	itemDisplayName	Grappling Hook
+item	31998	isItemTool	false
+item	31998	enchantability	0
+item	31998	isRepairable	false
+item	31998	isItemBlock	false
+recipes/crafting/shaped	W=3;null;Minecraft/item.string:0;null;null;Minecraft/item.string:0;null;null;Minecraft/item.string:0;null	output	4093:0
+recipes/crafting/shaped	W=3;null;Minecraft/item.ingotIron:0;null;null;RopesPlus/tile.blockRopeCentral:32767;null;null;RopesPlus/tile.blockRopeCentral:32767;null	output	31998:0
+recipes/crafting/shaped	W=3;Minecraft/item.ingotIron:0;RopesPlus/item.itemGrapplingHook:0;Minecraft/item.ingotIron:0;Minecraft/item.ingotIron:0;RopesPlus/tile.blockRopeCentral:32767;Minecraft/item.ingotIron:0;Minecraft/item.ingotIron:0;Minecraft/tile.pistonBase:32767;Minecraft/item.ingotIron:0	output	31985:0
+recipes/crafting/shaped	W=3;null;RopesPlus/tile.blockRopeCentral:32767;null;null;RopesPlus/tile.blockRopeCentral:32767;null;null;Minecraft/item.ingotIron:0;null	output	4092:0
+recipes/crafting/shaped	W=3;null;Minecraft/item.paper:0;null;Minecraft/item.paper:0;Minecraft/item.sulphur:0;Minecraft/item.paper:0;null;Minecraft/item.paper:0;null	output	31984:0
+recipes/crafting/shaped	W=1;Minecraft/tile.dirt:32767;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31739:0
+recipes/crafting/shaped	W=1;Minecraft/item.sulphur:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31738:0
+recipes/crafting/shaped	W=1;Minecraft/item.coal:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31737:0
+recipes/crafting/shaped	W=1;Minecraft/item.seeds:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31736:0
+recipes/crafting/shaped	W=1;Minecraft/item.snowball:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31735:0
+recipes/crafting/shaped	W=1;Minecraft/item.redstone:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31734:0
+recipes/crafting/shaped	W=1;Minecraft/item.slimeball:0;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31732:0
+recipes/crafting/shaped	W=1;Minecraft/tile.torch:32767;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31731:0
+recipes/crafting/shaped	W=1;Minecraft/tile.obsidian:32767;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31730:0
+recipes/crafting/shaped	W=1;Minecraft/tile.sand:32767;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31740:0
+recipes/crafting/shaped	W=1;RopesPlus/tile.blockRopeCentral:32767;Minecraft/item.stick:0;Minecraft/item.feather:0	output	31733:0

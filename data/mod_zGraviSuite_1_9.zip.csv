@@ -1,0 +1,205 @@
+item	30473	id	30473
+item	30473	gid	GraviSuite/item.GraviChestPlate
+item	30473	itemStackLimit	1
+item	30473	hasSubtypes	false
+item	30473	maxDamage	27
+item	30473	isDamageable	true
+item	30473	localizedName	item.GraviChestPlate
+item	30473	unlocalizedName	item.GraviChestPlate
+item	30473	hasContainerItem	false
+item	30473	statName	GraviChestPlate
+item	30473	isMap	false
+item	30473	itemUseAction	none
+item	30473	maxItemUseDuration	0
+item	30473	potionEffect	null
+item	30473	isPotionIngredient	false
+item	30473	itemDisplayName	GraviChestPlate
+item	30473	isItemTool	true
+item	30473	enchantability	0
+item	30473	isRepairable	false
+item	30473	isItemBlock	false
+item	30474	id	30474
+item	30474	gid	GraviSuite/item.UltimateLappack
+item	30474	itemStackLimit	1
+item	30474	hasSubtypes	false
+item	30474	maxDamage	27
+item	30474	isDamageable	true
+item	30474	localizedName	item.UltimateLappack
+item	30474	unlocalizedName	item.UltimateLappack
+item	30474	hasContainerItem	false
+item	30474	statName	Ultimate Lappack
+item	30474	isMap	false
+item	30474	itemUseAction	none
+item	30474	maxItemUseDuration	0
+item	30474	potionEffect	null
+item	30474	isPotionIngredient	false
+item	30474	itemDisplayName	Ultimate Lappack
+item	30474	isItemTool	true
+item	30474	enchantability	0
+item	30474	isRepairable	false
+item	30474	isItemBlock	false
+item	30475	id	30475
+item	30475	gid	GraviSuite/id30475
+item	30475	itemStackLimit	64
+item	30475	hasSubtypes	true
+item	30475	maxDamage	0
+item	30475	isDamageable	false
+item	30475	localizedName	itemSuperConductorCover
+item	30475	unlocalizedName	item.null
+item	30475	hasContainerItem	false
+item	30475	statName	item.null.name
+item	30475	isMap	false
+item	30475	itemUseAction	none
+item	30475	maxItemUseDuration	0
+item	30475	potionEffect	null
+item	30475	isPotionIngredient	false
+item	30475	itemDisplayName	Superconductor Cover
+item	30475	isItemTool	false
+item	30475	enchantability	0
+item	30475	isRepairable	false
+item	30475	isItemBlock	false
+item	30477	id	30477
+item	30477	gid	GraviSuite/item.Vajra
+item	30477	itemStackLimit	1
+item	30477	hasSubtypes	false
+item	30477	maxDamage	27
+item	30477	isDamageable	true
+item	30477	localizedName	item.Vajra
+item	30477	unlocalizedName	item.Vajra
+item	30477	hasContainerItem	false
+item	30477	statName	Vajra
+item	30477	isMap	false
+item	30477	itemUseAction	none
+item	30477	maxItemUseDuration	0
+item	30477	potionEffect	null
+item	30477	isPotionIngredient	false
+item	30477	itemDisplayName	Vajra
+item	30477	isItemTool	true
+item	30477	enchantability	0
+item	30477	isRepairable	false
+item	30477	isItemBlock	false
+item	30478	id	30478
+item	30478	gid	GraviSuite/item.Advanced Diamond Drill
+item	30478	itemStackLimit	1
+item	30478	hasSubtypes	false
+item	30478	maxDamage	27
+item	30478	isDamageable	true
+item	30478	localizedName	item.Advanced Diamond Drill
+item	30478	unlocalizedName	item.Advanced Diamond Drill
+item	30478	hasContainerItem	false
+item	30478	statName	Advanced Diamond Drill
+item	30478	isMap	false
+item	30478	itemUseAction	none
+item	30478	maxItemUseDuration	0
+item	30478	potionEffect	null
+item	30478	isPotionIngredient	false
+item	30478	itemDisplayName	Advanced Diamond Drill
+item	30478	isItemTool	true
+item	30478	enchantability	0
+item	30478	isRepairable	false
+item	30478	isItemBlock	false
+item	30479	id	30479
+item	30479	gid	GraviSuite/item.Advanced Chainsaw
+item	30479	itemStackLimit	1
+item	30479	hasSubtypes	false
+item	30479	maxDamage	27
+item	30479	isDamageable	true
+item	30479	localizedName	item.Advanced Chainsaw
+item	30479	unlocalizedName	item.Advanced Chainsaw
+item	30479	hasContainerItem	false
+item	30479	statName	Advanced Chainsaw
+item	30479	isMap	false
+item	30479	itemUseAction	none
+item	30479	maxItemUseDuration	0
+item	30479	potionEffect	null
+item	30479	isPotionIngredient	false
+item	30479	itemDisplayName	Advanced Chainsaw
+item	30479	isItemTool	true
+item	30479	enchantability	0
+item	30479	isRepairable	false
+item	30479	isItemBlock	false
+item	30480	id	30480
+item	30480	gid	GraviSuite/item.Advanced Lappack
+item	30480	itemStackLimit	1
+item	30480	hasSubtypes	false
+item	30480	maxDamage	27
+item	30480	isDamageable	true
+item	30480	localizedName	item.Advanced Lappack
+item	30480	unlocalizedName	item.Advanced Lappack
+item	30480	hasContainerItem	false
+item	30480	statName	Advanced Lappack
+item	30480	isMap	false
+item	30480	itemUseAction	none
+item	30480	maxItemUseDuration	0
+item	30480	potionEffect	null
+item	30480	isPotionIngredient	false
+item	30480	itemDisplayName	Advanced Lappack
+item	30480	isItemTool	true
+item	30480	enchantability	0
+item	30480	isRepairable	false
+item	30480	isItemBlock	false
+item	30481	id	30481
+item	30481	gid	GraviSuite/item.Advanced Electric Jetpack
+item	30481	itemStackLimit	1
+item	30481	hasSubtypes	false
+item	30481	maxDamage	27
+item	30481	isDamageable	true
+item	30481	localizedName	item.Advanced Electric Jetpack
+item	30481	unlocalizedName	item.Advanced Electric Jetpack
+item	30481	hasContainerItem	false
+item	30481	statName	Advanced Electric Jetpack
+item	30481	isMap	false
+item	30481	itemUseAction	none
+item	30481	maxItemUseDuration	0
+item	30481	potionEffect	null
+item	30481	isPotionIngredient	false
+item	30481	itemDisplayName	Advanced Electric Jetpack
+item	30481	isItemTool	true
+item	30481	enchantability	0
+item	30481	isRepairable	false
+item	30481	isItemBlock	false
+item	30482	id	30482
+item	30482	gid	GraviSuite/item.GraviTool
+item	30482	itemStackLimit	1
+item	30482	hasSubtypes	false
+item	30482	maxDamage	27
+item	30482	isDamageable	true
+item	30482	localizedName	item.GraviTool
+item	30482	unlocalizedName	item.GraviTool
+item	30482	hasContainerItem	false
+item	30482	statName	GraviTool
+item	30482	isMap	false
+item	30482	itemUseAction	none
+item	30482	maxItemUseDuration	0
+item	30482	potionEffect	null
+item	30482	isPotionIngredient	false
+item	30482	itemDisplayName	GraviTool
+item	30482	isItemTool	true
+item	30482	enchantability	0
+item	30482	isRepairable	false
+item	30482	isItemBlock	false
+item	30483	id	30483
+item	30483	gid	GraviSuite/item.Advanced NanoChestPlate
+item	30483	itemStackLimit	1
+item	30483	hasSubtypes	false
+item	30483	maxDamage	27
+item	30483	isDamageable	true
+item	30483	localizedName	item.Advanced NanoChestPlate
+item	30483	unlocalizedName	item.Advanced NanoChestPlate
+item	30483	hasContainerItem	false
+item	30483	statName	Advanced NanoChestPlate
+item	30483	isMap	false
+item	30483	itemUseAction	none
+item	30483	maxItemUseDuration	0
+item	30483	potionEffect	null
+item	30483	isPotionIngredient	false
+item	30483	itemDisplayName	Advanced NanoChestPlate
+item	30483	isItemTool	true
+item	30483	enchantability	0
+item	30483	isRepairable	false
+item	30483	isItemBlock	false
+oredict	30475:1	name	itemSuperconductor
+recipes/crafting/shaped	W=3;IC2/itemPartAlloy:0;IC2/itemPartIridium:0;IC2/itemPartAlloy:0;IC2/itemPartCarbonPlate:0;IC2/itemPartCarbonPlate:0;IC2/itemPartCarbonPlate:0;IC2/itemPartAlloy:0;IC2/itemPartIridium:0;IC2/itemPartAlloy:0	output	30475:0
+recipes/crafting/shaped	W=3;GraviSuite/id30475:0;GraviSuite/id30475:0;GraviSuite/id30475:0;IC2/itemCable:9;Minecraft/item.ingotGold:0;IC2/itemCable:9;GraviSuite/id30475:0;GraviSuite/id30475:0;GraviSuite/id30475:0	output	30475:1
+recipes/crafting/shaped	W=3;IC2/reactorCoolantSix:0;IC2/reactorHeatSwitchDiamond:0;IC2/reactorCoolantSix:0;IC2/reactorPlatingHeat:0;IC2/itemPartIridium:0;IC2/reactorPlatingHeat:0;IC2/reactorCoolantSix:0;IC2/reactorHeatSwitchDiamond:0;IC2/reactorCoolantSix:0	output	30475:2
+recipes/crafting/shaped	W=3;IC2/itemIngotAdvIron:0;IC2/itemIngotCopper:0;IC2/itemIngotAdvIron:0;IC2/itemIngotCopper:0;GraviSuite/id30475:1;IC2/itemIngotCopper:0;IC2/itemIngotAdvIron:0;IC2/itemIngotCopper:0;IC2/itemIngotAdvIron:0	output	30475:4

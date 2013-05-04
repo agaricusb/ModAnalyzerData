@@ -1,0 +1,2 @@
+entity	3	name	LavaMonsters.LavaMonster
+entity	3	class	toast.lavaMonsters.EntityLavaMonster

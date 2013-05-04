@@ -1,0 +1,22 @@
+item	13446	id	13446
+item	13446	gid	GraviGun/item.GraviGun
+item	13446	itemStackLimit	1
+item	13446	hasSubtypes	true
+item	13446	maxDamage	0
+item	13446	isDamageable	false
+item	13446	localizedName	item.GraviGun
+item	13446	unlocalizedName	item.GraviGun
+item	13446	hasContainerItem	false
+item	13446	statName	Gravity Gun
+item	13446	isMap	false
+item	13446	itemUseAction	bow
+item	13446	maxItemUseDuration	0
+item	13446	potionEffect	null
+item	13446	isPotionIngredient	false
+item	13446	itemDisplayName	Gravity Gun
+item	13446	isItemTool	false
+item	13446	enchantability	0
+item	13446	isRepairable	false
+item	13446	isItemBlock	false
+recipes/crafting/shaped	W=3;Minecraft/item.diamond:0;Minecraft/item.enderPearl:0;Minecraft/item.ingotIron:0;Minecraft/item.enderPearl:0;Minecraft/tile.lightgem:32767;Minecraft/item.enderPearl:0;Minecraft/item.ingotIron:0;Minecraft/item.enderPearl:0;Minecraft/tile.obsidian:32767	output	13446:0
+recipes/crafting/shaped	W=3;Minecraft/item.diamond:0;Minecraft/item.enderPearl:0;Minecraft/item.ingotIron:0;Minecraft/item.enderPearl:0;Minecraft/item.netherStar:0;Minecraft/item.enderPearl:0;Minecraft/item.ingotIron:0;Minecraft/item.enderPearl:0;Minecraft/tile.obsidian:32767	output	13446:1

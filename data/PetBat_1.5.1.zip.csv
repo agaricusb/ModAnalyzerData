@@ -1,0 +1,104 @@
+item	31999	id	31999
+item	31999	gid	PetBat/item.fed Pet Bat
+item	31999	itemStackLimit	1
+item	31999	hasSubtypes	false
+item	31999	maxDamage	28
+item	31999	isDamageable	true
+item	31999	localizedName	item.fed Pet Bat
+item	31999	unlocalizedName	item.fed Pet Bat
+item	31999	hasContainerItem	false
+item	31999	statName	fed Pet Bat
+item	31999	isMap	false
+item	31999	itemUseAction	none
+item	31999	maxItemUseDuration	0
+item	31999	potionEffect	null
+item	31999	isPotionIngredient	false
+item	31999	itemDisplayName	fed Pet Bat
+item	31999	isItemTool	true
+item	31999	enchantability	0
+item	31999	isRepairable	true
+item	31999	isItemBlock	false
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:27	ingredient.0	31999:27
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:27	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:27	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:26	ingredient.0	31999:26
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:26	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:26	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:25	ingredient.0	31999:25
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:25	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:25	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:24	ingredient.0	31999:24
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:24	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:24	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:23	ingredient.0	31999:23
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:23	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:23	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:22	ingredient.0	31999:22
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:22	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:22	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:21	ingredient.0	31999:21
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:21	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:21	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:20	ingredient.0	31999:20
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:20	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:20	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:19	ingredient.0	31999:19
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:19	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:19	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:18	ingredient.0	31999:18
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:18	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:18	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:17	ingredient.0	31999:17
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:17	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:17	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:16	ingredient.0	31999:16
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:16	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:16	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:15	ingredient.0	31999:15
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:15	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:15	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:14	ingredient.0	31999:14
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:14	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:14	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:13	ingredient.0	31999:13
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:13	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:13	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:12	ingredient.0	31999:12
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:12	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:12	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:11	ingredient.0	31999:11
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:11	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:11	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:10	ingredient.0	31999:10
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:10	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:10	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:9	ingredient.0	31999:9
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:9	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:9	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:8	ingredient.0	31999:8
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:8	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:8	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:7	ingredient.0	31999:7
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:7	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:7	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:6	ingredient.0	31999:6
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:6	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:6	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:5	ingredient.0	31999:5
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:5	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:5	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:4	ingredient.0	31999:4
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:4	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:4	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:3	ingredient.0	31999:3
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:3	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:3	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:2	ingredient.0	31999:2
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:2	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:2	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:1	ingredient.0	31999:1
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:1	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:1	output	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:0	ingredient.0	31999:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:0	ingredient.1	400:0
+recipes/crafting/shapeless	Minecraft/item.pumpkinPie:0;PetBat/item.fed Pet Bat:0	output	31999:0
