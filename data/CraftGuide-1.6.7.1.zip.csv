@@ -1,0 +1,27 @@
+item	23617	id	23617
+item	23617	gid	craftguide/item.craftguide_item
+item	23617	itemStackLimit	64
+item	23617	hasSubtypes	false
+item	23617	maxDamage	0
+item	23617	isDamageable	false
+item	23617	localizedName	item.craftguide_item
+item	23617	unlocalizedName	item.craftguide_item
+item	23617	hasContainerItem	false
+item	23617	statName	Crafting Guide
+item	23617	isMap	false
+item	23617	itemUseAction	none
+item	23617	maxItemUseDuration	0
+item	23617	potionEffect	null
+item	23617	isPotionIngredient	false
+item	23617	itemDisplayName	Crafting Guide
+item	23617	isItemTool	false
+item	23617	enchantability	0
+item	23617	isRepairable	false
+item	23617	isItemBlock	false
+oredict	56:0	name	oreDiamond
+oredict	21:0	name	oreLapis
+oredict	15:0	name	oreIron
+oredict	129:0	name	oreEmerald
+oredict	14:0	name	oreGold
+oredict	73:0	name	oreRedstone
+recipes/crafting/shaped	W=3;Minecraft/item.paper:0;Minecraft/item.book:0;Minecraft/item.paper:0;Minecraft/item.book:0;Minecraft/tile.workbench:32767;Minecraft/item.book:0;Minecraft/item.paper:0;Minecraft/item.book:0;Minecraft/item.paper:0	output	23617:0
